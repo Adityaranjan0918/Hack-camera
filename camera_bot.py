@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Replace with your actual configuration details
-BOT_TOKEN = "8616355757:AAFzNc-U8Sdy0hD7R34aShVZDvszpCBqh3k"
+BOT_TOKEN = "8962958469:AAGUIoym1UZWX_a7NQkaqIwBtHnAg-5Od3w"
 AUTHORIZED_CHAT_ID = 8616355757  # Replace with your numeric Chat ID
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
